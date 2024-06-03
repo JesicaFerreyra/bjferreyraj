@@ -10,6 +10,7 @@ import './style.css';
 
 //variables globales
 //prueba de git - git hub
+//tercer cambio
 
 let deck                  = [];
 let puntosJugador         =0;
